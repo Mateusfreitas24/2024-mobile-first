@@ -1,2 +1,2 @@
 # 2024-mobile-first
- Exercicio de responsabilidade em HTML e CSS
+ Exercicio de responsividade em HTML e CSS
