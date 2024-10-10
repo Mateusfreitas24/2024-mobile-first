@@ -1,5 +1,5 @@
 .carrossel__titulo {
-    color: var(--laranja);
+    color: var(--preto);
     background-color: var(--branco);
     text-align: center;
     text-transform: uppercase;
@@ -37,7 +37,7 @@
 }
 
 .descricao__titulo {
-    color: var(--laranja);
+    color: var(--preto);
     font-weight: 700;
 }
 
