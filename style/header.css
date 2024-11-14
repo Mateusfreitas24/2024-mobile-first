@@ -43,7 +43,7 @@
 }
 
 .lista-menu__titulo{
-    color: var(--laranja);
+    color: var(--preto);
     font-weight: bold;
 }
 .lista-menu__link{
